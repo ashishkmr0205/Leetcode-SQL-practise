@@ -1,1 +1,8 @@
 # Leetcode-SQL-practise
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ashishkmr0205/Leetcode-SQL-practise/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
